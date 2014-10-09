@@ -1,0 +1,1 @@
+java -Xms2048M -Xmx2048M -jar Tectonicus_v2.20.jar config=simpleConfig.xml

@@ -1,0 +1,328 @@
+ + + + + + + + + + + + + + + + + + + + + + + +
+                  Tectonicus
+   Version: 2.20
+   Build Unversioned directory\r\n
+   Constructed on September 21 2014 at 2310
+ + + + + + + + + + + + + + + + + + + + + + + +
+Started on Thu Oct 09 13:28:20 EDT 2014
+System:
+	OS Name: Mac OS X
+	OS Architecture: x86_64
+	OS Version: 10.9.4
+	Java vendor: Apple Inc.
+	Java version: 1.6.0_65
+	Awt toolkit: apple.awt.CToolkit
+	Headless?: null
+Settings:
+	mode:CommandLine
+	rasteriser:Lwjgl
+	outputDir:/Users/jwoolschlager/Google Drive/dev/minecraft-map/tectonicus/../map
+	useCache:true
+	cacheDir:/Users/jwoolschlager/Google Drive/dev/minecraft-map/tectonicus/../map/Cache
+	minecraftJar:/Users/jwoolschlager/Library/Application Support/minecraft/versions/1.8/1.8.jar
+	texturePack:none
+	colourDepth:24
+	alphaBits:8
+	numSamples:4
+	tileSize:64
+	numZoomLevels:1
+	portalsInitiallyVisible:true
+	showSpawn:true
+	signsInitiallyVisible:true
+	playersInitiallyVisible:true
+	bedsInitiallyVisible:true
+	spawnInitiallyVisible:true
+	viewsInitiallyVisible:true
+	eraseOutputDir:true
+	extractLwjglNatives:true
+	isVerbose:false
+	forceLoadAwt:false
+	force32BitNatives:false
+	force64BitNatives:false
+	logFile:/Users/jwoolschlager/Google Drive/dev/minecraft-map/tectonicus/./TectonicusLog.txt
+	outputHtmlName:map.html
+	numDownsampleThreads:8
+	singlePlayerName:
+'Nibiru Reborn' map
+	worldDir: /Users/jwoolschlager/Google Drive/dev/minecraft-map/tectonicus/../woolbear
+	dimension: Terra
+	cameraAngle: 0
+	cameraElevation: 90
+	closestZoomSize: 1
+	worldSubset: CircularWorldSubset (0, 0) 20
+	useBiomeColours: false
+	'Day' layer
+		renderStyle: Regular
+		lightStyle: Day
+		imageFormat: Png
+		customBlockConfig: 
+Deleting output dir: /Users/jwoolschlager/Google Drive/dev/minecraft-map/tectonicus/../map
+Player skin cache is old or corrupt, cleaning...
+Creating player icon assembler
+Initialising display...
+	Drawable: null
+	created pbuffer: org.lwjgl.opengl.Pbuffer@485fcf29
+	used pixel format:   colour:24 depth:16 alpha:8 stencil:0 samples:4
+	display created ok
+Using rasteriser: tectonicus.rasteriser.lwjgl.LwjglRasteriser@3479e304
+ -- Lwjgl Rasteriser -- 
+	LWJGL version: 2.9.0
+	type: Offscreen
+	width: 2048
+	heigth: 2048
+	pBuffer: org.lwjgl.opengl.Pbuffer@485fcf29
+	OpenGL Vendor: NVIDIA Corporation
+	OpenGL Renderer: NVIDIA GeForce GT 750M OpenGL Engine
+	OpenGL Version: 2.1 NVIDIA-8.26.26 310.40.45f01
+Creating camera
+TileRenderer init complete
+StartingRenderer
+Starting tile renderer
+Loading world from base dir ../woolbear with dimension Terra
+	Full dimension dir: /Users/jwoolschlager/Google Drive/dev/minecraft-map/tectonicus/../woolbear
+Loading level.dat
+Loading textures
+Creating block registry
+Loading players
+Loading players from /Users/jwoolschlager/Google Drive/dev/minecraft-map/tectonicus/../woolbear/playerdata
+Loading raw player from /Users/jwoolschlager/Google Drive/dev/minecraft-map/tectonicus/../woolbear/playerdata/01715a64-4aa2-4886-9a10-c30dc3ecb703.dat
+Loaded Lelievre
+Loading raw player from /Users/jwoolschlager/Google Drive/dev/minecraft-map/tectonicus/../woolbear/playerdata/2afcaddd-a6b3-4d97-a659-7ec586cc844f.dat
+Loaded krispin_d
+Loading raw player from /Users/jwoolschlager/Google Drive/dev/minecraft-map/tectonicus/../woolbear/playerdata/88e9d42d-75d4-423c-b171-3ed6c36bc74e.dat
+Loaded agarwaen
+Loading raw player from /Users/jwoolschlager/Google Drive/dev/minecraft-map/tectonicus/../woolbear/playerdata/c34ff0cc-8922-4ecb-8a52-586f923a806d.dat
+Loaded jhkerschner
+	loaded 4 players
+Detected Anvil save format
+CalculatingChunkHashes
+Discovering chunks...
+Looking for chunks in /Users/jwoolschlager/Google Drive/dev/minecraft-map/tectonicus/../woolbear
+
+Found 3911 chunks in total
+Found 0 views
+Finding visible tiles...
+FindVisibleTiles
+100%
+found 15876 total tiles to output
+Finding changed tiles since last render...
+FindChangedTiles
+Generating compass image...
+Generating portal image...
+Writing signs to /Users/jwoolschlager/Google Drive/dev/minecraft-map/tectonicus/../map/Map0/signs.js
+Outputting players to /Users/jwoolschlager/Google Drive/dev/minecraft-map/tectonicus/../map/Map0/players.js
+	outputting Lelievre
+	outputting krispin_d
+No skin for player krispin_d
+	outputting agarwaen
+	outputting jhkerschner
+Outputted 4 players
+Outputting beds to /Users/jwoolschlager/Google Drive/dev/minecraft-map/tectonicus/../map/Map0/beds.js
+	outputting Lelievre's bed
+	outputting krispin_d's bed
+	outputting agarwaen's bed
+	outputting jhkerschner's bed
+Outputted 4 beds
+Writing portals...
+Wrote 1 portals
+Writing views...
+Outputting block stats to /Users/jwoolschlager/Google Drive/dev/minecraft-map/tectonicus/../map/Map0/blockStats.js
+Outputted 84 block counts
+Outputting world stats to /Users/jwoolschlager/Google Drive/dev/minecraft-map/tectonicus/../map/Map0/worldStats.js
+Outputted world stats
+Finding changed views...
+Found 0 changed views (out of 0 total views)
+Drawing Day views...
+Drawing Night views...
+View rendering done!
+Settings changed! Deleting tile cache at /Users/jwoolschlager/Google Drive/dev/minecraft-map/tectonicus/../map/Cache/tileHashes/Map0/LayerA
+New tile cache will be created for this render
+0%
+1%
+1%
+2%
+3%
+3%
+4%
+5%
+5%
+6%
+6%
+7%
+8%
+8%
+9%
+10%
+10%
+11%
+11%
+12%
+13%
+13%
+14%
+15%
+15%
+16%
+17%
+17%
+18%
+18%
+19%
+20%
+20%
+21%
+22%
+22%
+23%
+23%
+24%
+25%
+25%
+26%
+27%
+27%
+28%
+28%
+29%
+30%
+30%
+31%
+32%
+32%
+33%
+34%
+34%
+35%
+35%
+36%
+37%
+37%
+38%
+39%
+39%
+40%
+40%
+41%
+42%
+42%
+43%
+44%
+44%
+45%
+45%
+46%
+47%
+47%
+48%
+49%
+49%
+50%
+51%
+51%
+52%
+52%
+53%
+54%
+54%
+55%
+56%
+56%
+57%
+57%
+58%
+59%
+59%
+60%
+61%
+61%
+62%
+62%
+63%
+64%
+64%
+65%
+66%
+66%
+67%
+68%
+68%
+69%
+69%
+70%
+71%
+71%
+72%
+73%
+73%
+74%
+74%
+75%
+76%
+76%
+77%
+78%
+78%
+79%
+79%
+80%
+81%
+81%
+82%
+83%
+83%
+84%
+85%
+85%
+86%
+86%
+87%
+88%
+88%
+89%
+90%
+90%
+91%
+91%
+92%
+93%
+93%
+94%
+95%
+95%
+96%
+97%
+97%
+98%
+98%
+99%
+100%
+FindChangedTiles took: 2.59 seconds
+RenderBaseTiles
+Base render is at zoom 1 with 64x64 tiles
+RenderBaseTiles
+
+Base tile render complete
+Downsampling to create zoom level 0
+Downsampling level 0
+	Scanning for next zoom tiles...
+	Downsampling 15876 tiles into 3969 tiles
+100%
+Finalizing downsampling...
+Downsampling complete
+Downsampling took 3 seconds
+Outputting world vectors to /Users/jwoolschlager/Google Drive/dev/minecraft-map/tectonicus/../map/Map0/worldVectors.js
+World vectors done
+Outputting master contents to /Users/jwoolschlager/Google Drive/dev/minecraft-map/tectonicus/../map/Scripts/contents.js
+Exporting html...
+OutputHtml
+	writing html to /Users/jwoolschlager/Google Drive/dev/minecraft-map/tectonicus/../map/map.html
+Exporting stats...
+Outputting stats to /Users/jwoolschlager/Google Drive/dev/minecraft-map/tectonicus/../map/Scripts/stats.js
+Writing changed file list...
+OutputChangedList
+Render complete - total time 1 minutes 17 seconds
+Cleaning up...
+Writing player skin cache info (4 skins to write)
+100%
+Player skin cache written
+Finished
