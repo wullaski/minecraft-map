@@ -1,7 +1,7 @@
 15
 Lwjgl
 -1
-1
+4
 64
 24
 8
@@ -11,11 +11,11 @@ Lwjgl
 
 Map0
 Nibiru Reborn
-0.0
+1.5707964
 1.5707964
 Terra
-1
-CircularWorldSubset (0, 0) 20
+24
+FullWorldSubset
 LayerA
 Day
 Day

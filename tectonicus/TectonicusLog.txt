@@ -4,7 +4,7 @@
    Build Unversioned directory\r\n
    Constructed on September 21 2014 at 2310
  + + + + + + + + + + + + + + + + + + + + + + +
-Started on Thu Oct 09 13:28:20 EDT 2014
+Started on Fri Oct 10 10:35:32 EDT 2014
 System:
 	OS Name: Mac OS X
 	OS Architecture: x86_64
@@ -25,12 +25,12 @@ Settings:
 	alphaBits:8
 	numSamples:4
 	tileSize:64
-	numZoomLevels:1
-	portalsInitiallyVisible:true
+	numZoomLevels:4
+	portalsInitiallyVisible:false
 	showSpawn:true
-	signsInitiallyVisible:true
+	signsInitiallyVisible:false
 	playersInitiallyVisible:true
-	bedsInitiallyVisible:true
+	bedsInitiallyVisible:false
 	spawnInitiallyVisible:true
 	viewsInitiallyVisible:true
 	eraseOutputDir:true
@@ -40,16 +40,16 @@ Settings:
 	force32BitNatives:false
 	force64BitNatives:false
 	logFile:/Users/jwoolschlager/Google Drive/dev/minecraft-map/tectonicus/./TectonicusLog.txt
-	outputHtmlName:map.html
+	outputHtmlName:index.html
 	numDownsampleThreads:8
 	singlePlayerName:
 'Nibiru Reborn' map
 	worldDir: /Users/jwoolschlager/Google Drive/dev/minecraft-map/tectonicus/../woolbear
 	dimension: Terra
-	cameraAngle: 0
+	cameraAngle: 90
 	cameraElevation: 90
-	closestZoomSize: 1
-	worldSubset: CircularWorldSubset (0, 0) 20
+	closestZoomSize: 24
+	worldSubset: FullWorldSubset
 	useBiomeColours: false
 	'Day' layer
 		renderStyle: Regular
@@ -99,12 +99,12 @@ CalculatingChunkHashes
 Discovering chunks...
 Looking for chunks in /Users/jwoolschlager/Google Drive/dev/minecraft-map/tectonicus/../woolbear
 
-Found 3911 chunks in total
+Found 82451 chunks in total
 Found 0 views
 Finding visible tiles...
 FindVisibleTiles
 100%
-found 15876 total tiles to output
+found 39195 total tiles to output
 Finding changed tiles since last render...
 FindChangedTiles
 Generating compass image...
@@ -124,10 +124,10 @@ Outputting beds to /Users/jwoolschlager/Google Drive/dev/minecraft-map/tectonicu
 	outputting jhkerschner's bed
 Outputted 4 beds
 Writing portals...
-Wrote 1 portals
+Wrote 6 portals
 Writing views...
 Outputting block stats to /Users/jwoolschlager/Google Drive/dev/minecraft-map/tectonicus/../map/Map0/blockStats.js
-Outputted 84 block counts
+Outputted 177 block counts
 Outputting world stats to /Users/jwoolschlager/Google Drive/dev/minecraft-map/tectonicus/../map/Map0/worldStats.js
 Outputted world stats
 Finding changed views...
@@ -138,189 +138,443 @@ View rendering done!
 Settings changed! Deleting tile cache at /Users/jwoolschlager/Google Drive/dev/minecraft-map/tectonicus/../map/Cache/tileHashes/Map0/LayerA
 New tile cache will be created for this render
 0%
+0%
+0%
+1%
+1%
 1%
 1%
 2%
+2%
+2%
+2%
+3%
+3%
 3%
 3%
 4%
+4%
+4%
+4%
 5%
 5%
+5%
+5%
+6%
+6%
 6%
 6%
 7%
+7%
+7%
+7%
+8%
+8%
 8%
 8%
 9%
+9%
+9%
+9%
 10%
 10%
+10%
+10%
+11%
+11%
 11%
 11%
 12%
+12%
+12%
+13%
+13%
 13%
 13%
 14%
+14%
+14%
+14%
+15%
+15%
 15%
 15%
 16%
+16%
+16%
+16%
 17%
 17%
+17%
+17%
+18%
+18%
 18%
 18%
 19%
+19%
+19%
+19%
+20%
+20%
 20%
 20%
 21%
+21%
+21%
+21%
 22%
 22%
+22%
+22%
+23%
+23%
 23%
 23%
 24%
+24%
+24%
+25%
+25%
 25%
 25%
 26%
+26%
+26%
+26%
 27%
 27%
+27%
+27%
+28%
+28%
 28%
 28%
 29%
+29%
+29%
+29%
+30%
+30%
 30%
 30%
 31%
+31%
+31%
+31%
+32%
+32%
 32%
 32%
 33%
+33%
+33%
+33%
 34%
 34%
+34%
+34%
+35%
+35%
 35%
 35%
 36%
+36%
+36%
+36%
+37%
 37%
 37%
 38%
+38%
+38%
+38%
 39%
 39%
+39%
+39%
+40%
+40%
 40%
 40%
 41%
+41%
+41%
+41%
+42%
+42%
 42%
 42%
 43%
+43%
+43%
+43%
 44%
 44%
+44%
+44%
+45%
+45%
 45%
 45%
 46%
+46%
+46%
+46%
+47%
+47%
 47%
 47%
 48%
+48%
+48%
+48%
+49%
 49%
 49%
 50%
+50%
+50%
+50%
 51%
 51%
+51%
+51%
+52%
+52%
 52%
 52%
 53%
+53%
+53%
+53%
+54%
+54%
 54%
 54%
 55%
+55%
+55%
+55%
 56%
 56%
+56%
+56%
+57%
+57%
 57%
 57%
 58%
+58%
+58%
+58%
+59%
+59%
 59%
 59%
 60%
+60%
+60%
+60%
 61%
 61%
+61%
+61%
+62%
 62%
 62%
 63%
+63%
+63%
+63%
+64%
+64%
 64%
 64%
 65%
+65%
+65%
+65%
+66%
+66%
 66%
 66%
 67%
+67%
+67%
+67%
 68%
 68%
+68%
+68%
+69%
+69%
 69%
 69%
 70%
+70%
+70%
+70%
+71%
+71%
 71%
 71%
 72%
+72%
+72%
+72%
 73%
 73%
+73%
+73%
+74%
 74%
 74%
 75%
+75%
+75%
+75%
+76%
+76%
 76%
 76%
 77%
+77%
+77%
+77%
 78%
 78%
+78%
+78%
+79%
+79%
 79%
 79%
 80%
+80%
+80%
+80%
+81%
+81%
 81%
 81%
 82%
+82%
+82%
+82%
+83%
+83%
 83%
 83%
 84%
+84%
+84%
+84%
 85%
 85%
+85%
+85%
+86%
 86%
 86%
 87%
+87%
+87%
+87%
+88%
+88%
 88%
 88%
 89%
+89%
+89%
+89%
 90%
 90%
+90%
+90%
+91%
+91%
 91%
 91%
 92%
+92%
+92%
+92%
+93%
+93%
 93%
 93%
 94%
+94%
+94%
+94%
+95%
+95%
 95%
 95%
 96%
+96%
+96%
+96%
 97%
 97%
+97%
+97%
+98%
+98%
 98%
 98%
 99%
+99%
+99%
 100%
-FindChangedTiles took: 2.59 seconds
+FindChangedTiles took: 20.866 seconds
 RenderBaseTiles
-Base render is at zoom 1 with 64x64 tiles
+Base render is at zoom 24 with 64x64 tiles
 RenderBaseTiles
 
 Base tile render complete
-Downsampling to create zoom level 0
-Downsampling level 0
+Downsampling to create zoom level 3
+Downsampling level 3
 	Scanning for next zoom tiles...
-	Downsampling 15876 tiles into 3969 tiles
+	Downsampling 39195 tiles into 10371 tiles
 100%
 Finalizing downsampling...
 Downsampling complete
-Downsampling took 3 seconds
+Downsampling to create zoom level 2
+Downsampling level 2
+	Scanning for next zoom tiles...
+	Downsampling 10371 tiles into 2787 tiles
+100%
+Finalizing downsampling...
+Downsampling complete
+Downsampling to create zoom level 1
+Downsampling level 1
+	Scanning for next zoom tiles...
+	Downsampling 2787 tiles into 800 tiles
+100%
+Finalizing downsampling...
+Downsampling complete
+Downsampling to create zoom level 0
+Downsampling level 0
+	Scanning for next zoom tiles...
+	Downsampling 800 tiles into 245 tiles
+100%
+Finalizing downsampling...
+Downsampling complete
+Downsampling took 37 seconds
 Outputting world vectors to /Users/jwoolschlager/Google Drive/dev/minecraft-map/tectonicus/../map/Map0/worldVectors.js
 World vectors done
 Outputting master contents to /Users/jwoolschlager/Google Drive/dev/minecraft-map/tectonicus/../map/Scripts/contents.js
 Exporting html...
 OutputHtml
-	writing html to /Users/jwoolschlager/Google Drive/dev/minecraft-map/tectonicus/../map/map.html
+	writing html to /Users/jwoolschlager/Google Drive/dev/minecraft-map/tectonicus/../map/index.html
 Exporting stats...
 Outputting stats to /Users/jwoolschlager/Google Drive/dev/minecraft-map/tectonicus/../map/Scripts/stats.js
 Writing changed file list...
 OutputChangedList
-Render complete - total time 1 minutes 17 seconds
+Render complete - total time 31 minutes 35 seconds
 Cleaning up...
 Writing player skin cache info (4 skins to write)
 100%

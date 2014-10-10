@@ -13,8 +13,12 @@
 
 	<config
 		outputDir="../map"
-		numZoomLevels="1"
-		eraseOutputDir="true"
+		numZoomLevels="4"
+		eraseOutputDir="false"
+		bedsInitiallyVisible="false"
+		signsInitiallyVisible="false"
+		portalsInitiallyVisible="false"
+		outputHtmlName="index.html"
 	/>
 	<rasteriser
 		tileSize="64"
@@ -23,8 +27,8 @@
 		name="Nibiru Reborn"
 		worldDir="../woolbear"
 		dimension="terra"
-		cameraAngle="0"
-		closestZoomSize="1"
+		cameraAngle="90"
+		closestZoomSize="24"
 		cameraElevation="90"
 	>
 		<layer
@@ -33,10 +37,13 @@
 			renderStyle="normal"
 		/>
 
-		<subset>
-			<!-- Radius is in world units. Remove 'origin' to center around the spawn point -->
-			<CircularSubset radius="20" origin="0, 0" />
-		</subset>
+		<!-- <subset>
+			//Radius is in world units. Remove 'origin' to center around the spawn point
+			<CircularSubset radius="80" origin="0, 0" />
+		</subset> -->
+		<signs
+			filter="none"
+		/>
 	</map>
 	
 
