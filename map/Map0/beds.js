@@ -1,7 +1,7 @@
 var Map0_bedData=[
 	{
 		playerName: "Lelievre",
-		worldPos: new WorldCoord(-2365, 77, 623)
+		worldPos: new WorldCoord(-1188, 122, -2)
 	},
 	{
 		playerName: "krispin_d",
@@ -9,7 +9,7 @@ var Map0_bedData=[
 	},
 	{
 		playerName: "agarwaen",
-		worldPos: new WorldCoord(-6335, 64, 6499)
+		worldPos: new WorldCoord(10267, 64, -2179)
 	},
 	{
 		playerName: "jhkerschner",

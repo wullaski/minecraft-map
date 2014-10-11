@@ -6,6 +6,9 @@ var Map0_portalData=[
 		worldPos: new WorldCoord(-365.0, 74.0, 1919.0)
 	},
 	{
+		worldPos: new WorldCoord(-5732.0, 92.0, 1674.0)
+	},
+	{
 		worldPos: new WorldCoord(-1278.0, 123.0, 273.0)
 	},
 	{
