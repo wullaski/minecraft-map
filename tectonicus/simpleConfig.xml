@@ -13,7 +13,7 @@
 
 	<config
 		outputDir="../map"
-		numZoomLevels="4"
+		numZoomLevels="6"
 		eraseOutputDir="false"
 		bedsInitiallyVisible="false"
 		signsInitiallyVisible="false"
@@ -28,7 +28,7 @@
 		worldDir="../woolbear"
 		dimension="terra"
 		cameraAngle="90"
-		closestZoomSize="24"
+		closestZoomSize="48"
 		cameraElevation="90"
 	>
 		<layer
