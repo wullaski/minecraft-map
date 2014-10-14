@@ -1,5 +1,5 @@
 tileSize = 64;
-maxZoom = 4;
+maxZoom = 6;
 
 var contents = 
 [

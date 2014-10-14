@@ -1,35 +1,35 @@
 var Map0_playerData=[
 	{
-		xpTotal: 325,
+		xpTotal: 927,
 		food: 20,
-		name: "Lelievre",
+		name: "null",
 		air: 300,
-		worldPos: new WorldCoord(-2338.806669246984, 87.0, 606.6827240183414),
+		worldPos: new WorldCoord(-1187.9278225676123, 122.0, 0.750068064039375),
 		xpLevel: 15,
 		health: 20
 	},
 	{
-		xpTotal: 1173,
+		xpTotal: 74,
 		food: 20,
-		name: "krispin_d",
+		name: "null",
 		air: 300,
-		worldPos: new WorldCoord(-2811.5200522500722, 76.8500000178814, -2704.3343376141243),
-		xpLevel: 22,
+		worldPos: new WorldCoord(10266.904919734377, 64.0, -2173.464287203195),
+		xpLevel: 6,
 		health: 20
 	},
 	{
-		xpTotal: 72,
-		food: 3,
-		name: "agarwaen",
+		xpTotal: 630,
+		food: 20,
+		name: "null",
 		air: 300,
-		worldPos: new WorldCoord(10265.684951312125, 64.0, -2176.8313109916653),
-		xpLevel: 6,
+		worldPos: new WorldCoord(-1105.4953368344954, 123.0, 135.404688915287),
+		xpLevel: 21,
 		health: 20
 	},
 	{
 		xpTotal: 0,
 		food: 20,
-		name: "jhkerschner",
+		name: "null",
 		air: 300,
 		worldPos: new WorldCoord(-89.68006665163212, 70.0, -64.36434452195962),
 		xpLevel: 0,
