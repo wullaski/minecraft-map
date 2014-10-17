@@ -4,7 +4,7 @@
    Build Unversioned directory\r\n
    Constructed on September 21 2014 at 2310
  + + + + + + + + + + + + + + + + + + + + + + +
-Started on Tue Oct 14 12:43:43 EDT 2014
+Started on Thu Oct 16 18:44:15 EDT 2014
 System:
 	OS Name: Mac OS X
 	OS Architecture: x86_64
@@ -56,20 +56,30 @@ Settings:
 		lightStyle: Day
 		imageFormat: Png
 		customBlockConfig: 
+	'Nether' layer
+		renderStyle: Nether
+		lightStyle: None
+		imageFormat: Png
+		customBlockConfig: 
+	'Explored Caves' layer
+		renderStyle: ExploredCaves
+		lightStyle: Cave
+		imageFormat: Png
+		customBlockConfig: 
 Using existing player skin cache
 Creating player icon assembler
 Initialising display...
 	Drawable: null
-	created pbuffer: org.lwjgl.opengl.Pbuffer@44d3db51
+	created pbuffer: org.lwjgl.opengl.Pbuffer@bc5fde0
 	used pixel format:   colour:24 depth:16 alpha:8 stencil:0 samples:4
 	display created ok
-Using rasteriser: tectonicus.rasteriser.lwjgl.LwjglRasteriser@671ff436
+Using rasteriser: tectonicus.rasteriser.lwjgl.LwjglRasteriser@31884174
  -- Lwjgl Rasteriser -- 
 	LWJGL version: 2.9.0
 	type: Offscreen
 	width: 2048
 	heigth: 2048
-	pBuffer: org.lwjgl.opengl.Pbuffer@44d3db51
+	pBuffer: org.lwjgl.opengl.Pbuffer@bc5fde0
 	OpenGL Vendor: NVIDIA Corporation
 	OpenGL Renderer: NVIDIA GeForce GT 750M OpenGL Engine
 	OpenGL Version: 2.1 NVIDIA-8.26.26 310.40.45f01
@@ -98,12 +108,12 @@ CalculatingChunkHashes
 Discovering chunks...
 Looking for chunks in /Users/jwoolschlager/versioned/minecraft-map/tectonicus/../woolbear
 
-Found 167066 chunks in total
+Found 167170 chunks in total
 Found 0 views
 Finding visible tiles...
 FindVisibleTiles
 100%
-found 22037 total tiles to output
+found 22047 total tiles to output
 Finding changed tiles since last render...
 FindChangedTiles
 Generating compass image...
@@ -111,12 +121,16 @@ Generating portal image...
 Writing signs to /Users/jwoolschlager/versioned/minecraft-map/tectonicus/../map/Map0/signs.js
 Outputting players to /Users/jwoolschlager/versioned/minecraft-map/tectonicus/../map/Map0/players.js
 	outputting null
+Couldn't read skin cache file: javax.imageio.IIOException: Can't read input file!
 No skin for player null
 	outputting null
+Couldn't read skin cache file: javax.imageio.IIOException: Can't read input file!
 No skin for player null
 	outputting null
+Couldn't read skin cache file: javax.imageio.IIOException: Can't read input file!
 No skin for player null
 	outputting null
+Couldn't read skin cache file: javax.imageio.IIOException: Can't read input file!
 No skin for player null
 Outputted 4 players
 Outputting beds to /Users/jwoolschlager/versioned/minecraft-map/tectonicus/../map/Map0/beds.js
@@ -129,7 +143,7 @@ Writing portals...
 Wrote 8 portals
 Writing views...
 Outputting block stats to /Users/jwoolschlager/versioned/minecraft-map/tectonicus/../map/Map0/blockStats.js
-Outputted 191 block counts
+Outputted 195 block counts
 Outputting world stats to /Users/jwoolschlager/versioned/minecraft-map/tectonicus/../map/Map0/worldStats.js
 Outputted world stats
 Finding changed views...
@@ -137,7 +151,278 @@ Found 0 changed views (out of 0 total views)
 Drawing Day views...
 Drawing Night views...
 View rendering done!
-Settings changed! Deleting tile cache at /Users/jwoolschlager/versioned/minecraft-map/tectonicus/../map/Cache/tileHashes/Map0/LayerA
+Tile cache directory found and is valid. Using cache at /Users/jwoolschlager/versioned/minecraft-map/tectonicus/../map/Cache/tileHashes/Map0/LayerA
+0%
+0%
+1%
+1%
+2%
+2%
+3%
+3%
+4%
+4%
+4%
+5%
+5%
+6%
+6%
+7%
+7%
+8%
+8%
+9%
+9%
+9%
+10%
+10%
+11%
+11%
+12%
+12%
+13%
+13%
+14%
+14%
+14%
+15%
+15%
+16%
+16%
+17%
+17%
+18%
+18%
+19%
+19%
+19%
+20%
+20%
+21%
+21%
+22%
+22%
+23%
+23%
+24%
+24%
+24%
+25%
+25%
+26%
+26%
+27%
+27%
+28%
+28%
+29%
+29%
+29%
+30%
+30%
+31%
+31%
+32%
+32%
+33%
+33%
+34%
+34%
+34%
+35%
+35%
+36%
+36%
+37%
+37%
+38%
+38%
+39%
+39%
+39%
+40%
+40%
+41%
+41%
+42%
+42%
+43%
+43%
+43%
+44%
+44%
+45%
+45%
+46%
+46%
+47%
+47%
+48%
+48%
+48%
+49%
+49%
+50%
+50%
+51%
+51%
+52%
+52%
+53%
+53%
+53%
+54%
+54%
+55%
+55%
+56%
+56%
+57%
+57%
+58%
+58%
+58%
+59%
+59%
+60%
+60%
+61%
+61%
+62%
+62%
+63%
+63%
+63%
+64%
+64%
+65%
+65%
+66%
+66%
+67%
+67%
+68%
+68%
+68%
+69%
+69%
+70%
+70%
+71%
+71%
+72%
+72%
+73%
+73%
+73%
+74%
+74%
+75%
+75%
+76%
+76%
+77%
+77%
+78%
+78%
+78%
+79%
+79%
+80%
+80%
+81%
+81%
+82%
+82%
+83%
+83%
+83%
+84%
+84%
+85%
+85%
+86%
+86%
+87%
+87%
+87%
+88%
+88%
+89%
+89%
+90%
+90%
+91%
+91%
+92%
+92%
+92%
+93%
+93%
+94%
+94%
+95%
+95%
+96%
+96%
+97%
+97%
+97%
+98%
+98%
+99%
+99%
+100%
+FindChangedTiles took: 12.617 seconds
+RenderBaseTiles
+Base render is at zoom 48 with 64x64 tiles
+RenderBaseTiles
+
+Base tile render complete
+Downsampling to create zoom level 5
+Downsampling level 5
+	Scanning for next zoom tiles...
+	Downsampling 176 tiles into 66 tiles
+100%
+Finalizing downsampling...
+Downsampling complete
+Downsampling to create zoom level 4
+Downsampling level 4
+	Scanning for next zoom tiles...
+	Downsampling 66 tiles into 28 tiles
+100%
+Finalizing downsampling...
+Downsampling complete
+Downsampling to create zoom level 3
+Downsampling level 3
+	Scanning for next zoom tiles...
+	Downsampling 28 tiles into 14 tiles
+100%
+Finalizing downsampling...
+Downsampling complete
+Downsampling to create zoom level 2
+Downsampling level 2
+	Scanning for next zoom tiles...
+	Downsampling 14 tiles into 8 tiles
+100%
+Finalizing downsampling...
+Downsampling complete
+Downsampling to create zoom level 1
+Downsampling level 1
+	Scanning for next zoom tiles...
+	Downsampling 8 tiles into 4 tiles
+100%
+Finalizing downsampling...
+Downsampling complete
+Downsampling to create zoom level 0
+Downsampling level 0
+	Scanning for next zoom tiles...
+	Downsampling 4 tiles into 3 tiles
+100%
+Finalizing downsampling...
+Downsampling complete
+Downsampling took 0 seconds
+Settings changed! Deleting tile cache at /Users/jwoolschlager/versioned/minecraft-map/tectonicus/../map/Cache/tileHashes/Map0/LayerB
 New tile cache will be created for this render
 0%
 0%
@@ -235,7 +520,7 @@ New tile cache will be created for this render
 42%
 43%
 43%
-44%
+43%
 44%
 44%
 45%
@@ -246,7 +531,7 @@ New tile cache will be created for this render
 47%
 48%
 48%
-49%
+48%
 49%
 49%
 50%
@@ -257,7 +542,7 @@ New tile cache will be created for this render
 52%
 53%
 53%
-54%
+53%
 54%
 54%
 55%
@@ -332,7 +617,7 @@ New tile cache will be created for this render
 86%
 87%
 87%
-88%
+87%
 88%
 88%
 89%
@@ -343,7 +628,7 @@ New tile cache will be created for this render
 91%
 92%
 92%
-93%
+92%
 93%
 93%
 94%
@@ -354,13 +639,13 @@ New tile cache will be created for this render
 96%
 97%
 97%
-98%
+97%
 98%
 98%
 99%
 99%
 100%
-FindChangedTiles took: 12.388 seconds
+FindChangedTiles took: 12.128 seconds
 RenderBaseTiles
 Base render is at zoom 48 with 64x64 tiles
 RenderBaseTiles
@@ -369,14 +654,14 @@ Base tile render complete
 Downsampling to create zoom level 5
 Downsampling level 5
 	Scanning for next zoom tiles...
-	Downsampling 22037 tiles into 5983 tiles
+	Downsampling 22047 tiles into 5984 tiles
 100%
 Finalizing downsampling...
 Downsampling complete
 Downsampling to create zoom level 4
 Downsampling level 4
 	Scanning for next zoom tiles...
-	Downsampling 5983 tiles into 1703 tiles
+	Downsampling 5984 tiles into 1703 tiles
 100%
 Finalizing downsampling...
 Downsampling complete
@@ -409,6 +694,278 @@ Downsampling level 0
 Finalizing downsampling...
 Downsampling complete
 Downsampling took 13 seconds
+Settings changed! Deleting tile cache at /Users/jwoolschlager/versioned/minecraft-map/tectonicus/../map/Cache/tileHashes/Map0/LayerC
+New tile cache will be created for this render
+0%
+0%
+1%
+1%
+2%
+2%
+3%
+3%
+4%
+4%
+4%
+5%
+5%
+6%
+6%
+7%
+7%
+8%
+8%
+9%
+9%
+9%
+10%
+10%
+11%
+11%
+12%
+12%
+13%
+13%
+14%
+14%
+14%
+15%
+15%
+16%
+16%
+17%
+17%
+18%
+18%
+19%
+19%
+19%
+20%
+20%
+21%
+21%
+22%
+22%
+23%
+23%
+24%
+24%
+24%
+25%
+25%
+26%
+26%
+27%
+27%
+28%
+28%
+29%
+29%
+29%
+30%
+30%
+31%
+31%
+32%
+32%
+33%
+33%
+34%
+34%
+34%
+35%
+35%
+36%
+36%
+37%
+37%
+38%
+38%
+39%
+39%
+39%
+40%
+40%
+41%
+41%
+42%
+42%
+43%
+43%
+43%
+44%
+44%
+45%
+45%
+46%
+46%
+47%
+47%
+48%
+48%
+48%
+49%
+49%
+50%
+50%
+51%
+51%
+52%
+52%
+53%
+53%
+53%
+54%
+54%
+55%
+55%
+56%
+56%
+57%
+57%
+58%
+58%
+58%
+59%
+59%
+60%
+60%
+61%
+61%
+62%
+62%
+63%
+63%
+63%
+64%
+64%
+65%
+65%
+66%
+66%
+67%
+67%
+68%
+68%
+68%
+69%
+69%
+70%
+70%
+71%
+71%
+72%
+72%
+73%
+73%
+73%
+74%
+74%
+75%
+75%
+76%
+76%
+77%
+77%
+78%
+78%
+78%
+79%
+79%
+80%
+80%
+81%
+81%
+82%
+82%
+83%
+83%
+83%
+84%
+84%
+85%
+85%
+86%
+86%
+87%
+87%
+87%
+88%
+88%
+89%
+89%
+90%
+90%
+91%
+91%
+92%
+92%
+92%
+93%
+93%
+94%
+94%
+95%
+95%
+96%
+96%
+97%
+97%
+97%
+98%
+98%
+99%
+99%
+100%
+FindChangedTiles took: 13.762 seconds
+RenderBaseTiles
+Base render is at zoom 48 with 64x64 tiles
+RenderBaseTiles
+
+Base tile render complete
+Downsampling to create zoom level 5
+Downsampling level 5
+	Scanning for next zoom tiles...
+	Downsampling 22047 tiles into 5984 tiles
+100%
+Finalizing downsampling...
+Downsampling complete
+Downsampling to create zoom level 4
+Downsampling level 4
+	Scanning for next zoom tiles...
+	Downsampling 5984 tiles into 1703 tiles
+100%
+Finalizing downsampling...
+Downsampling complete
+Downsampling to create zoom level 3
+Downsampling level 3
+	Scanning for next zoom tiles...
+	Downsampling 1703 tiles into 513 tiles
+100%
+Finalizing downsampling...
+Downsampling complete
+Downsampling to create zoom level 2
+Downsampling level 2
+	Scanning for next zoom tiles...
+	Downsampling 513 tiles into 165 tiles
+100%
+Finalizing downsampling...
+Downsampling complete
+Downsampling to create zoom level 1
+Downsampling level 1
+	Scanning for next zoom tiles...
+	Downsampling 165 tiles into 58 tiles
+100%
+Finalizing downsampling...
+Downsampling complete
+Downsampling to create zoom level 0
+Downsampling level 0
+	Scanning for next zoom tiles...
+	Downsampling 58 tiles into 24 tiles
+100%
+Finalizing downsampling...
+Downsampling complete
+Downsampling took 12 seconds
 Outputting world vectors to /Users/jwoolschlager/versioned/minecraft-map/tectonicus/../map/Map0/worldVectors.js
 World vectors done
 Outputting master contents to /Users/jwoolschlager/versioned/minecraft-map/tectonicus/../map/Scripts/contents.js
@@ -419,7 +976,7 @@ Exporting stats...
 Outputting stats to /Users/jwoolschlager/versioned/minecraft-map/tectonicus/../map/Scripts/stats.js
 Writing changed file list...
 OutputChangedList
-Render complete - total time 52 minutes 32 seconds
+Render complete - total time 1 hours 21 minutes 48 seconds
 Cleaning up...
 Writing player skin cache info (4 skins to write)
 100%

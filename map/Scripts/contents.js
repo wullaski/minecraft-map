@@ -21,6 +21,18 @@ var contents =
 				name: "Day",
 				imageFormat: "png",
 				isPng: "true"
+			},
+			{
+				id: "LayerB",
+				name: "Nether",
+				imageFormat: "png",
+				isPng: "true"
+			},
+			{
+				id: "LayerC",
+				name: "Explored Caves",
+				imageFormat: "png",
+				isPng: "true"
 			}
 		]
 	}
