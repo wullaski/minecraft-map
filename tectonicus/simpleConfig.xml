@@ -36,11 +36,6 @@
 			lighting="day"
 			renderStyle="normal"
 		/>
-		<layer
-			name="Nether"
-			lighting="none"
-			renderStyle="nether"
-		/>
 		<!-- <subset>
 			//Radius is in world units. Remove 'origin' to center around the spawn point
 			<CircularSubset radius="80" origin="0, 0" />
