@@ -27,10 +27,25 @@ var contents =
 				name: "Nether",
 				imageFormat: "png",
 				isPng: "true"
-			},
+			}
+		]
+	},
+	{
+		id: "Map1",
+		name: "Nibiru Nether",
+		players: Map1_playerData,
+		beds: Map1_bedData,
+		signs: Map1_signData,
+		portals: Map1_portalData,
+		views: Map1_viewData,
+		blockStats: Map1_blockStats,
+		worldStats: Map1_worldStats,
+		worldVectors: Map1_worldVectors,
+		layers:
+		[
 			{
 				id: "LayerC",
-				name: "Explored Caves",
+				name: "Nether",
 				imageFormat: "png",
 				isPng: "true"
 			}

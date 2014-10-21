@@ -41,15 +41,28 @@
 			lighting="none"
 			renderStyle="nether"
 		/>
-		<layer
-			name="Explored Caves"
-			lighting="cave"
-			renderStyle="exploredcaves"
-		/>
 		<!-- <subset>
 			//Radius is in world units. Remove 'origin' to center around the spawn point
 			<CircularSubset radius="80" origin="0, 0" />
 		</subset> -->
+		<signs
+			filter="none"
+		/>
+	</map>
+
+	<map
+		name="Nibiru Nether"
+		worldDir="../woolbear"
+		dimension="nether"
+		cameraAngle="90"
+		closestZoomSize="48"
+		cameraElevation="90"
+	>
+		<layer
+			name="Nether"
+			lighting="none"
+			renderStyle="nether"
+		/>
 		<signs
 			filter="none"
 		/>

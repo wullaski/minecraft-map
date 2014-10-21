@@ -6,8 +6,8 @@ var Map0_worldVectors =
 
 	worldName: "woolbear",
 	worldSizeInBytes: 0,
-	numChunks: 167170,
-	surfaceArea: "42.8",
+	numChunks: 168815,
+	surfaceArea: "43.2",
 	numPlayers: 4,
 	spawnPosition: new WorldCoord(-100, 64, -64),
 	origin: new google.maps.Point(0.5, 0.5),
