@@ -1,5 +1,5 @@
 tileSize = 64;
-maxZoom = 6;
+maxZoom = 7;
 
 var contents = 
 [
@@ -21,12 +21,6 @@ var contents =
 				name: "Day",
 				imageFormat: "png",
 				isPng: "true"
-			},
-			{
-				id: "LayerB",
-				name: "Nether",
-				imageFormat: "png",
-				isPng: "true"
 			}
 		]
 	},
@@ -44,7 +38,7 @@ var contents =
 		layers:
 		[
 			{
-				id: "LayerC",
+				id: "LayerB",
 				name: "Nether",
 				imageFormat: "png",
 				isPng: "true"

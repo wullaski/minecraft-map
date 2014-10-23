@@ -1,6 +1,6 @@
 var Map1_blockStats=[
 	{
-		count: "227,312,873",
+		count: "227,312,872",
 		name: "Air"
 	},
 	{
@@ -12,7 +12,7 @@ var Map1_blockStats=[
 		name: "Bedrock"
 	},
 	{
-		count: "2,955",
+		count: "2,956",
 		name: "Brown Mushroom"
 	},
 	{

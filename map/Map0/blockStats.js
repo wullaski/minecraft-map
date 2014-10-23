@@ -40,7 +40,7 @@ var Map0_blockStats=[
 		name: "Acacia Wooden Plank"
 	},
 	{
-		count: "8,171,498,606",
+		count: "8,427,482,153",
 		name: "Air"
 	},
 	{
@@ -48,7 +48,7 @@ var Map0_blockStats=[
 		name: "Allium"
 	},
 	{
-		count: "111,458,457",
+		count: "115,297,628",
 		name: "Andesite"
 	},
 	{
@@ -64,7 +64,7 @@ var Map0_blockStats=[
 		name: "Bed"
 	},
 	{
-		count: "129,620,520",
+		count: "133,741,422",
 		name: "Bedrock"
 	},
 	{
@@ -72,11 +72,11 @@ var Map0_blockStats=[
 		name: "Birch Fence"
 	},
 	{
-		count: "2,255,092",
+		count: "2,308,814",
 		name: "Birch Leaves"
 	},
 	{
-		count: "259,472",
+		count: "265,648",
 		name: "Birch Wood"
 	},
 	{
@@ -100,7 +100,7 @@ var Map0_blockStats=[
 		name: "Brewing Stand"
 	},
 	{
-		count: "17,411",
+		count: "17,826",
 		name: "Brown Mushroom"
 	},
 	{
@@ -116,7 +116,7 @@ var Map0_blockStats=[
 		name: "Cauldron"
 	},
 	{
-		count: "2,372",
+		count: "2,444",
 		name: "Chest"
 	},
 	{
@@ -124,11 +124,11 @@ var Map0_blockStats=[
 		name: "Chiseled Sandstone"
 	},
 	{
-		count: "262,311",
+		count: "273,036",
 		name: "Clay"
 	},
 	{
-		count: "29,637,452",
+		count: "30,637,976",
 		name: "Coal Ore"
 	},
 	{
@@ -136,7 +136,7 @@ var Map0_blockStats=[
 		name: "Coarse Dirt"
 	},
 	{
-		count: "194,655",
+		count: "201,322",
 		name: "Cobblestone"
 	},
 	{
@@ -148,7 +148,7 @@ var Map0_blockStats=[
 		name: "Cobblestone Slab"
 	},
 	{
-		count: "1,016",
+		count: "1,112",
 		name: "Cobblestone Stairs"
 	},
 	{
@@ -156,7 +156,7 @@ var Map0_blockStats=[
 		name: "Cobblestone Wall"
 	},
 	{
-		count: "7,211",
+		count: "11,011",
 		name: "Cocoa Pod"
 	},
 	{
@@ -188,19 +188,19 @@ var Map0_blockStats=[
 		name: "Dead Shrub"
 	},
 	{
-		count: "590,496",
+		count: "609,537",
 		name: "Diamond Ore"
 	},
 	{
-		count: "102,471,237",
+		count: "106,014,297",
 		name: "Diorite"
 	},
 	{
-		count: "103,842,836",
+		count: "108,649,302",
 		name: "Dirt"
 	},
 	{
-		count: "14",
+		count: "23",
 		name: "Dispenser"
 	},
 	{
@@ -224,11 +224,11 @@ var Map0_blockStats=[
 		name: "Ender Chest"
 	},
 	{
-		count: "551,060",
+		count: "569,294",
 		name: "Fence"
 	},
 	{
-		count: "3,277",
+		count: "3,369",
 		name: "Fire"
 	},
 	{
@@ -256,19 +256,19 @@ var Map0_blockStats=[
 		name: "Gold Block"
 	},
 	{
-		count: "1,686,302",
+		count: "1,740,946",
 		name: "Gold Ore"
 	},
 	{
-		count: "106,974,792",
+		count: "110,645,875",
 		name: "Granite"
 	},
 	{
-		count: "20,530,802",
+		count: "21,583,686",
 		name: "Grass"
 	},
 	{
-		count: "39,938,728",
+		count: "41,014,750",
 		name: "Gravel"
 	},
 	{
@@ -308,7 +308,7 @@ var Map0_blockStats=[
 		name: "Iron Door"
 	},
 	{
-		count: "16,784,800",
+		count: "17,362,526",
 		name: "Iron Ore"
 	},
 	{
@@ -336,7 +336,7 @@ var Map0_blockStats=[
 		name: "Jungle Fence Gate"
 	},
 	{
-		count: "2,739,999",
+		count: "4,214,325",
 		name: "Jungle Leaves"
 	},
 	{
@@ -344,7 +344,7 @@ var Map0_blockStats=[
 		name: "Jungle Sapling"
 	},
 	{
-		count: "798,908",
+		count: "1,236,269",
 		name: "Jungle Wood"
 	},
 	{
@@ -368,23 +368,23 @@ var Map0_blockStats=[
 		name: "Jungle Wooden Plank"
 	},
 	{
-		count: "467",
+		count: "520",
 		name: "Ladder"
 	},
 	{
-		count: "676,075",
+		count: "697,663",
 		name: "Lapis Lazuli Ore"
 	},
 	{
-		count: "43,153",
+		count: "43,238",
 		name: "Large Fern"
 	},
 	{
-		count: "15,842,287",
+		count: "16,299,416",
 		name: "Lava"
 	},
 	{
-		count: "21",
+		count: "33",
 		name: "Lever"
 	},
 	{
@@ -396,7 +396,7 @@ var Map0_blockStats=[
 		name: "Light Gray Stained Glass Pane"
 	},
 	{
-		count: "2,987",
+		count: "3,059",
 		name: "Lilac"
 	},
 	{
@@ -404,7 +404,7 @@ var Map0_blockStats=[
 		name: "Lily Pad"
 	},
 	{
-		count: "1,263",
+		count: "1,936",
 		name: "Melon"
 	},
 	{
@@ -412,11 +412,11 @@ var Map0_blockStats=[
 		name: "Melon Stem"
 	},
 	{
-		count: "2,832",
+		count: "2,913",
 		name: "Mob Spawner"
 	},
 	{
-		count: "69,814",
+		count: "74,557",
 		name: "Mossy Cobblestone"
 	},
 	{
@@ -440,7 +440,7 @@ var Map0_blockStats=[
 		name: "Netherrack"
 	},
 	{
-		count: "7,952,120",
+		count: "10,308,672",
 		name: "Oak Leaves"
 	},
 	{
@@ -448,15 +448,15 @@ var Map0_blockStats=[
 		name: "Oak Sapling"
 	},
 	{
-		count: "466,757",
+		count: "515,348",
 		name: "Oak Wood"
 	},
 	{
-		count: "41,511",
+		count: "68,856",
 		name: "Oak Wood East/West"
 	},
 	{
-		count: "26,816",
+		count: "44,195",
 		name: "Oak Wood North/South"
 	},
 	{
@@ -464,11 +464,11 @@ var Map0_blockStats=[
 		name: "Oak Wood Slab"
 	},
 	{
-		count: "737,989",
+		count: "761,975",
 		name: "Oak Wooden Plank"
 	},
 	{
-		count: "205,142",
+		count: "212,823",
 		name: "Obsidian"
 	},
 	{
@@ -484,7 +484,7 @@ var Map0_blockStats=[
 		name: "Oxeye Daisy"
 	},
 	{
-		count: "3,260",
+		count: "3,348",
 		name: "Peony"
 	},
 	{
@@ -504,7 +504,7 @@ var Map0_blockStats=[
 		name: "Polished Granite"
 	},
 	{
-		count: "33,666",
+		count: "34,585",
 		name: "Poppy"
 	},
 	{
@@ -528,7 +528,7 @@ var Map0_blockStats=[
 		name: "Prismarine Bricks"
 	},
 	{
-		count: "853",
+		count: "880",
 		name: "Pumpkin"
 	},
 	{
@@ -548,11 +548,11 @@ var Map0_blockStats=[
 		name: "Quartz Stairs"
 	},
 	{
-		count: "154,969",
+		count: "160,050",
 		name: "Rails"
 	},
 	{
-		count: "7,045",
+		count: "7,282",
 		name: "Red Mushroom"
 	},
 	{
@@ -560,11 +560,11 @@ var Map0_blockStats=[
 		name: "Red Tulip"
 	},
 	{
-		count: "4,755,600",
+		count: "4,907,836",
 		name: "Redstone Ore"
 	},
 	{
-		count: "15",
+		count: "19",
 		name: "Redstone Repeater"
 	},
 	{
@@ -572,15 +572,15 @@ var Map0_blockStats=[
 		name: "Redstone Torch"
 	},
 	{
-		count: "217",
+		count: "281",
 		name: "Redstone wire"
 	},
 	{
-		count: "2,978",
+		count: "3,052",
 		name: "Rose Bush"
 	},
 	{
-		count: "29,131,067",
+		count: "29,362,340",
 		name: "Sand"
 	},
 	{
@@ -600,7 +600,7 @@ var Map0_blockStats=[
 		name: "Sea Lantern"
 	},
 	{
-		count: "4",
+		count: "5",
 		name: "Sign Post"
 	},
 	{
@@ -612,11 +612,11 @@ var Map0_blockStats=[
 		name: "Smooth Sandstone"
 	},
 	{
-		count: "2,053,519",
+		count: "2,053,535",
 		name: "Snow"
 	},
 	{
-		count: "6,044",
+		count: "6,042",
 		name: "Soil"
 	},
 	{
@@ -636,7 +636,7 @@ var Map0_blockStats=[
 		name: "Spruce Fence Gate"
 	},
 	{
-		count: "3,146,537",
+		count: "3,153,790",
 		name: "Spruce Leaves"
 	},
 	{
@@ -644,7 +644,7 @@ var Map0_blockStats=[
 		name: "Spruce Sapling"
 	},
 	{
-		count: "421,665",
+		count: "422,643",
 		name: "Spruce Wood"
 	},
 	{
@@ -668,15 +668,15 @@ var Map0_blockStats=[
 		name: "Standing Banner"
 	},
 	{
-		count: "23",
+		count: "35",
 		name: "Sticky Piston"
 	},
 	{
-		count: "1,925,431,764",
+		count: "1,990,399,924",
 		name: "Stone"
 	},
 	{
-		count: "61,297",
+		count: "61,309",
 		name: "Stone Brick"
 	},
 	{
@@ -704,7 +704,7 @@ var Map0_blockStats=[
 		name: "Stone Slab"
 	},
 	{
-		count: "10,308",
+		count: "10,451",
 		name: "Sugar Canes"
 	},
 	{
@@ -712,11 +712,11 @@ var Map0_blockStats=[
 		name: "TNT"
 	},
 	{
-		count: "3,503,649",
+		count: "3,701,789",
 		name: "Tall Grass"
 	},
 	{
-		count: "8,965",
+		count: "9,202",
 		name: "Torch"
 	},
 	{
@@ -724,15 +724,15 @@ var Map0_blockStats=[
 		name: "Trapdoor"
 	},
 	{
-		count: "33",
+		count: "53",
 		name: "Tripwire"
 	},
 	{
-		count: "29",
+		count: "45",
 		name: "Tripwire Hook"
 	},
 	{
-		count: "1,801,458",
+		count: "2,588,765",
 		name: "Vines"
 	},
 	{
@@ -744,11 +744,11 @@ var Map0_blockStats=[
 		name: "Wall Sign"
 	},
 	{
-		count: "193,729,479",
+		count: "194,379,415",
 		name: "Water"
 	},
 	{
-		count: "142,721",
+		count: "147,270",
 		name: "Web"
 	},
 	{
@@ -788,11 +788,11 @@ var Map0_blockStats=[
 		name: "Wooden Stairs"
 	},
 	{
-		count: "96",
+		count: "100",
 		name: "Workbench"
 	},
 	{
-		count: "59,128",
+		count: "61,320",
 		name: "Yellow Flower"
 	}
 ];
