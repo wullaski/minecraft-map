@@ -1,29 +1,29 @@
 var Map0_playerData=[
 	{
-		xpTotal: 206,
+		xpTotal: 280,
 		food: 20,
 		name: "null",
 		air: 300,
-		worldPos: new WorldCoord(-2342.8945381231124, 87.0, 598.642693588994),
+		worldPos: new WorldCoord(-2353.365641438044, 87.0, 598.6513068396574),
+		xpLevel: 12,
+		health: 20
+	},
+	{
+		xpTotal: 2379,
+		food: 19,
+		name: "null",
+		air: 300,
+		worldPos: new WorldCoord(9927.162497057478, 89.0, -3148.0473199390754),
+		xpLevel: 22,
+		health: 20
+	},
+	{
+		xpTotal: 152,
+		food: 20,
+		name: "null",
+		air: 300,
+		worldPos: new WorldCoord(10222.355246996882, 86.0, -2544.1716876730334),
 		xpLevel: 9,
-		health: 20
-	},
-	{
-		xpTotal: 2258,
-		food: 18,
-		name: "null",
-		air: 300,
-		worldPos: new WorldCoord(10261.944229077964, 99.0, -2480.861252638729),
-		xpLevel: 24,
-		health: 20
-	},
-	{
-		xpTotal: 85,
-		food: 12,
-		name: "null",
-		air: 300,
-		worldPos: new WorldCoord(10254.972453539835, 64.0, -2537.8157331798266),
-		xpLevel: 6,
 		health: 20
 	},
 	{
