@@ -1,8 +1,8 @@
 var stats =
 {
-		renderTime: "17 minutes 55 seconds",
-		renderedOnDate: "Mon, 27 Oct 2014",
-		peakMemoryBytes: 67057632,
+		renderTime: "17 minutes 44 seconds",
+		renderedOnDate: "Wed, 5 Nov 2014",
+		peakMemoryBytes: 24181176,
 		tectonicusVersion: "2.20",
-		renderedOnTime: "14:00 EDT"
+		renderedOnTime: "09:30 EST"
 };

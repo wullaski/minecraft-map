@@ -1,6 +1,6 @@
 var Map1_blockStats=[
 	{
-		count: "227,312,872",
+		count: "231,359,260",
 		name: "Air"
 	},
 	{
@@ -8,11 +8,11 @@ var Map1_blockStats=[
 		name: "Andesite"
 	},
 	{
-		count: "8,174,243",
+		count: "8,315,835",
 		name: "Bedrock"
 	},
 	{
-		count: "2,956",
+		count: "3,032",
 		name: "Brown Mushroom"
 	},
 	{
@@ -44,7 +44,7 @@ var Map1_blockStats=[
 		name: "Dirt"
 	},
 	{
-		count: "8,233",
+		count: "8,404",
 		name: "Fire"
 	},
 	{
@@ -52,15 +52,15 @@ var Map1_blockStats=[
 		name: "Furnace"
 	},
 	{
-		count: "9,761",
+		count: "10,326",
 		name: "Glowstone"
 	},
 	{
-		count: "12,679",
+		count: "12,940",
 		name: "Gravel"
 	},
 	{
-		count: "3,872,916",
+		count: "3,957,729",
 		name: "Lava"
 	},
 	{
@@ -80,7 +80,7 @@ var Map1_blockStats=[
 		name: "Nether Brick Stairs"
 	},
 	{
-		count: "741,795",
+		count: "756,147",
 		name: "Nether Quartz Ore"
 	},
 	{
@@ -88,7 +88,7 @@ var Map1_blockStats=[
 		name: "Nether Wart"
 	},
 	{
-		count: "107,806,240",
+		count: "109,537,777",
 		name: "Netherrack"
 	},
 	{
@@ -100,7 +100,7 @@ var Map1_blockStats=[
 		name: "Portal"
 	},
 	{
-		count: "2,830",
+		count: "2,893",
 		name: "Red Mushroom"
 	},
 	{
@@ -108,7 +108,7 @@ var Map1_blockStats=[
 		name: "Sand"
 	},
 	{
-		count: "390,050",
+		count: "399,544",
 		name: "Soul Sand"
 	},
 	{

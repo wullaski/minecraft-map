@@ -6,7 +6,7 @@ var Map1_worldVectors =
 
 	worldName: "woolbear",
 	worldSizeInBytes: 0,
-	numChunks: 5322,
+	numChunks: 5414,
 	surfaceArea: "1.4",
 	numPlayers: 4,
 	spawnPosition: new WorldCoord(-100, 64, -64),
