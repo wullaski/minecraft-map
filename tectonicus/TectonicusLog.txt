@@ -4,7 +4,7 @@
    Build Unversioned directory\r\n
    Constructed on September 21 2014 at 2310
  + + + + + + + + + + + + + + + + + + + + + + +
-Started on Wed Nov 05 09:12:46 EST 2014
+Started on Fri Nov 07 12:46:03 EST 2014
 System:
 	OS Name: Mac OS X
 	OS Architecture: x86_64
@@ -73,16 +73,16 @@ Using existing player skin cache
 Creating player icon assembler
 Initialising display...
 	Drawable: null
-	created pbuffer: org.lwjgl.opengl.Pbuffer@9d7fbfb
+	created pbuffer: org.lwjgl.opengl.Pbuffer@a13f991
 	used pixel format:   colour:24 depth:16 alpha:8 stencil:0 samples:4
 	display created ok
-Using rasteriser: tectonicus.rasteriser.lwjgl.LwjglRasteriser@2b03be0
+Using rasteriser: tectonicus.rasteriser.lwjgl.LwjglRasteriser@555c07d8
  -- Lwjgl Rasteriser -- 
 	LWJGL version: 2.9.0
 	type: Offscreen
 	width: 2048
 	heigth: 2048
-	pBuffer: org.lwjgl.opengl.Pbuffer@9d7fbfb
+	pBuffer: org.lwjgl.opengl.Pbuffer@a13f991
 	OpenGL Vendor: NVIDIA Corporation
 	OpenGL Renderer: NVIDIA GeForce GT 750M OpenGL Engine
 	OpenGL Version: 2.1 NVIDIA-8.26.26 310.40.45f01
@@ -111,12 +111,12 @@ CalculatingChunkHashes
 Discovering chunks...
 Looking for chunks in /Users/jwoolschlager/dev/minecraft-map/tectonicus/../woolbear
 
-Found 176297 chunks in total
+Found 195341 chunks in total
 Found 0 views
 Finding visible tiles...
 FindVisibleTiles
 100%
-found 84359 total tiles to output
+found 93409 total tiles to output
 Finding changed tiles since last render...
 FindChangedTiles
 Generating compass image...
@@ -124,12 +124,16 @@ Generating portal image...
 Writing signs to /Users/jwoolschlager/dev/minecraft-map/tectonicus/../map/Map0/signs.js
 Outputting players to /Users/jwoolschlager/dev/minecraft-map/tectonicus/../map/Map0/players.js
 	outputting null
+Couldn't read skin cache file: javax.imageio.IIOException: Can't read input file!
 No skin for player null
 	outputting null
+Couldn't read skin cache file: javax.imageio.IIOException: Can't read input file!
 No skin for player null
 	outputting null
+Couldn't read skin cache file: javax.imageio.IIOException: Can't read input file!
 No skin for player null
 	outputting null
+Couldn't read skin cache file: javax.imageio.IIOException: Can't read input file!
 No skin for player null
 Outputted 4 players
 Outputting beds to /Users/jwoolschlager/dev/minecraft-map/tectonicus/../map/Map0/beds.js
@@ -142,7 +146,7 @@ Writing portals...
 Wrote 8 portals
 Writing views...
 Outputting block stats to /Users/jwoolschlager/dev/minecraft-map/tectonicus/../map/Map0/blockStats.js
-Outputted 204 block counts
+Outputted 205 block counts
 Outputting world stats to /Users/jwoolschlager/dev/minecraft-map/tectonicus/../map/Map0/worldStats.js
 Outputted world stats
 Finding changed views...
@@ -159,6 +163,7 @@ Tile cache directory found and is valid. Using cache at /Users/jwoolschlager/dev
 0%
 0%
 0%
+0%
 1%
 1%
 1%
@@ -167,6 +172,7 @@ Tile cache directory found and is valid. Using cache at /Users/jwoolschlager/dev
 1%
 1%
 1%
+1%
 2%
 2%
 2%
@@ -176,6 +182,8 @@ Tile cache directory found and is valid. Using cache at /Users/jwoolschlager/dev
 2%
 2%
 2%
+2%
+3%
 3%
 3%
 3%
@@ -201,6 +209,8 @@ Tile cache directory found and is valid. Using cache at /Users/jwoolschlager/dev
 5%
 5%
 5%
+5%
+5%
 6%
 6%
 6%
@@ -218,6 +228,9 @@ Tile cache directory found and is valid. Using cache at /Users/jwoolschlager/dev
 7%
 7%
 7%
+7%
+8%
+8%
 8%
 8%
 8%
@@ -243,6 +256,7 @@ Tile cache directory found and is valid. Using cache at /Users/jwoolschlager/dev
 10%
 10%
 10%
+10%
 11%
 11%
 11%
@@ -252,6 +266,8 @@ Tile cache directory found and is valid. Using cache at /Users/jwoolschlager/dev
 11%
 11%
 11%
+11%
+12%
 12%
 12%
 12%
@@ -277,6 +293,9 @@ Tile cache directory found and is valid. Using cache at /Users/jwoolschlager/dev
 14%
 14%
 14%
+14%
+14%
+15%
 15%
 15%
 15%
@@ -302,6 +321,8 @@ Tile cache directory found and is valid. Using cache at /Users/jwoolschlager/dev
 17%
 17%
 17%
+17%
+17%
 18%
 18%
 18%
@@ -319,6 +340,7 @@ Tile cache directory found and is valid. Using cache at /Users/jwoolschlager/dev
 19%
 19%
 19%
+19%
 20%
 20%
 20%
@@ -328,6 +350,8 @@ Tile cache directory found and is valid. Using cache at /Users/jwoolschlager/dev
 20%
 20%
 20%
+20%
+21%
 21%
 21%
 21%
@@ -353,6 +377,9 @@ Tile cache directory found and is valid. Using cache at /Users/jwoolschlager/dev
 23%
 23%
 23%
+23%
+23%
+24%
 24%
 24%
 24%
@@ -378,6 +405,8 @@ Tile cache directory found and is valid. Using cache at /Users/jwoolschlager/dev
 26%
 26%
 26%
+26%
+26%
 27%
 27%
 27%
@@ -395,6 +424,8 @@ Tile cache directory found and is valid. Using cache at /Users/jwoolschlager/dev
 28%
 28%
 28%
+28%
+29%
 29%
 29%
 29%
@@ -412,6 +443,7 @@ Tile cache directory found and is valid. Using cache at /Users/jwoolschlager/dev
 30%
 30%
 30%
+30%
 31%
 31%
 31%
@@ -420,6 +452,7 @@ Tile cache directory found and is valid. Using cache at /Users/jwoolschlager/dev
 31%
 31%
 31%
+31%
 32%
 32%
 32%
@@ -429,6 +462,8 @@ Tile cache directory found and is valid. Using cache at /Users/jwoolschlager/dev
 32%
 32%
 32%
+32%
+33%
 33%
 33%
 33%
@@ -454,6 +489,8 @@ Tile cache directory found and is valid. Using cache at /Users/jwoolschlager/dev
 35%
 35%
 35%
+35%
+35%
 36%
 36%
 36%
@@ -471,6 +508,8 @@ Tile cache directory found and is valid. Using cache at /Users/jwoolschlager/dev
 37%
 37%
 37%
+37%
+38%
 38%
 38%
 38%
@@ -488,6 +527,7 @@ Tile cache directory found and is valid. Using cache at /Users/jwoolschlager/dev
 39%
 39%
 39%
+39%
 40%
 40%
 40%
@@ -496,6 +536,7 @@ Tile cache directory found and is valid. Using cache at /Users/jwoolschlager/dev
 40%
 40%
 40%
+40%
 41%
 41%
 41%
@@ -505,6 +546,8 @@ Tile cache directory found and is valid. Using cache at /Users/jwoolschlager/dev
 41%
 41%
 41%
+41%
+42%
 42%
 42%
 42%
@@ -530,6 +573,8 @@ Tile cache directory found and is valid. Using cache at /Users/jwoolschlager/dev
 44%
 44%
 44%
+44%
+44%
 45%
 45%
 45%
@@ -547,6 +592,9 @@ Tile cache directory found and is valid. Using cache at /Users/jwoolschlager/dev
 46%
 46%
 46%
+46%
+46%
+47%
 47%
 47%
 47%
@@ -572,6 +620,8 @@ Tile cache directory found and is valid. Using cache at /Users/jwoolschlager/dev
 49%
 49%
 49%
+49%
+49%
 50%
 50%
 50%
@@ -589,6 +639,8 @@ Tile cache directory found and is valid. Using cache at /Users/jwoolschlager/dev
 51%
 51%
 51%
+51%
+52%
 52%
 52%
 52%
@@ -606,6 +658,7 @@ Tile cache directory found and is valid. Using cache at /Users/jwoolschlager/dev
 53%
 53%
 53%
+53%
 54%
 54%
 54%
@@ -614,6 +667,7 @@ Tile cache directory found and is valid. Using cache at /Users/jwoolschlager/dev
 54%
 54%
 54%
+54%
 55%
 55%
 55%
@@ -623,6 +677,8 @@ Tile cache directory found and is valid. Using cache at /Users/jwoolschlager/dev
 55%
 55%
 55%
+55%
+56%
 56%
 56%
 56%
@@ -648,6 +704,8 @@ Tile cache directory found and is valid. Using cache at /Users/jwoolschlager/dev
 58%
 58%
 58%
+58%
+58%
 59%
 59%
 59%
@@ -665,6 +723,8 @@ Tile cache directory found and is valid. Using cache at /Users/jwoolschlager/dev
 60%
 60%
 60%
+60%
+61%
 61%
 61%
 61%
@@ -682,6 +742,7 @@ Tile cache directory found and is valid. Using cache at /Users/jwoolschlager/dev
 62%
 62%
 62%
+62%
 63%
 63%
 63%
@@ -690,6 +751,7 @@ Tile cache directory found and is valid. Using cache at /Users/jwoolschlager/dev
 63%
 63%
 63%
+63%
 64%
 64%
 64%
@@ -699,6 +761,8 @@ Tile cache directory found and is valid. Using cache at /Users/jwoolschlager/dev
 64%
 64%
 64%
+64%
+65%
 65%
 65%
 65%
@@ -724,6 +788,8 @@ Tile cache directory found and is valid. Using cache at /Users/jwoolschlager/dev
 67%
 67%
 67%
+67%
+67%
 68%
 68%
 68%
@@ -741,6 +807,9 @@ Tile cache directory found and is valid. Using cache at /Users/jwoolschlager/dev
 69%
 69%
 69%
+69%
+70%
+70%
 70%
 70%
 70%
@@ -766,6 +835,7 @@ Tile cache directory found and is valid. Using cache at /Users/jwoolschlager/dev
 72%
 72%
 72%
+72%
 73%
 73%
 73%
@@ -775,6 +845,8 @@ Tile cache directory found and is valid. Using cache at /Users/jwoolschlager/dev
 73%
 73%
 73%
+73%
+74%
 74%
 74%
 74%
@@ -800,6 +872,8 @@ Tile cache directory found and is valid. Using cache at /Users/jwoolschlager/dev
 76%
 76%
 76%
+76%
+76%
 77%
 77%
 77%
@@ -817,6 +891,9 @@ Tile cache directory found and is valid. Using cache at /Users/jwoolschlager/dev
 78%
 78%
 78%
+78%
+79%
+79%
 79%
 79%
 79%
@@ -842,6 +919,7 @@ Tile cache directory found and is valid. Using cache at /Users/jwoolschlager/dev
 81%
 81%
 81%
+81%
 82%
 82%
 82%
@@ -851,6 +929,8 @@ Tile cache directory found and is valid. Using cache at /Users/jwoolschlager/dev
 82%
 82%
 82%
+82%
+83%
 83%
 83%
 83%
@@ -876,6 +956,9 @@ Tile cache directory found and is valid. Using cache at /Users/jwoolschlager/dev
 85%
 85%
 85%
+85%
+85%
+86%
 86%
 86%
 86%
@@ -901,6 +984,8 @@ Tile cache directory found and is valid. Using cache at /Users/jwoolschlager/dev
 88%
 88%
 88%
+88%
+88%
 89%
 89%
 89%
@@ -910,6 +995,8 @@ Tile cache directory found and is valid. Using cache at /Users/jwoolschlager/dev
 89%
 89%
 89%
+90%
+90%
 90%
 90%
 90%
@@ -935,6 +1022,9 @@ Tile cache directory found and is valid. Using cache at /Users/jwoolschlager/dev
 92%
 92%
 92%
+92%
+93%
+93%
 93%
 93%
 93%
@@ -960,6 +1050,8 @@ Tile cache directory found and is valid. Using cache at /Users/jwoolschlager/dev
 95%
 95%
 95%
+95%
+96%
 96%
 96%
 96%
@@ -977,6 +1069,7 @@ Tile cache directory found and is valid. Using cache at /Users/jwoolschlager/dev
 97%
 97%
 97%
+97%
 98%
 98%
 98%
@@ -986,6 +1079,8 @@ Tile cache directory found and is valid. Using cache at /Users/jwoolschlager/dev
 98%
 98%
 98%
+99%
+99%
 99%
 99%
 99%
@@ -995,7 +1090,7 @@ Tile cache directory found and is valid. Using cache at /Users/jwoolschlager/dev
 99%
 99%
 100%
-FindChangedTiles took: 63.038 seconds
+FindChangedTiles took: 78.842 seconds
 RenderBaseTiles
 Base render is at zoom 24 with 64x64 tiles
 RenderBaseTiles
@@ -1004,53 +1099,53 @@ Base tile render complete
 Downsampling to create zoom level 6
 Downsampling level 6
 	Scanning for next zoom tiles...
-	Downsampling 1393 tiles into 430 tiles
+	Downsampling 11351 tiles into 3165 tiles
 100%
 Finalizing downsampling...
 Downsampling complete
 Downsampling to create zoom level 5
 Downsampling level 5
 	Scanning for next zoom tiles...
-	Downsampling 430 tiles into 138 tiles
+	Downsampling 3165 tiles into 893 tiles
 100%
 Finalizing downsampling...
 Downsampling complete
 Downsampling to create zoom level 4
 Downsampling level 4
 	Scanning for next zoom tiles...
-	Downsampling 138 tiles into 48 tiles
+	Downsampling 893 tiles into 262 tiles
 100%
 Finalizing downsampling...
 Downsampling complete
 Downsampling to create zoom level 3
 Downsampling level 3
 	Scanning for next zoom tiles...
-	Downsampling 48 tiles into 21 tiles
+	Downsampling 262 tiles into 87 tiles
 100%
 Finalizing downsampling...
 Downsampling complete
 Downsampling to create zoom level 2
 Downsampling level 2
 	Scanning for next zoom tiles...
-	Downsampling 21 tiles into 13 tiles
+	Downsampling 87 tiles into 32 tiles
 100%
 Finalizing downsampling...
 Downsampling complete
 Downsampling to create zoom level 1
 Downsampling level 1
 	Scanning for next zoom tiles...
-	Downsampling 13 tiles into 7 tiles
+	Downsampling 32 tiles into 17 tiles
 100%
 Finalizing downsampling...
 Downsampling complete
 Downsampling to create zoom level 0
 Downsampling level 0
 	Scanning for next zoom tiles...
-	Downsampling 7 tiles into 6 tiles
+	Downsampling 17 tiles into 8 tiles
 100%
 Finalizing downsampling...
 Downsampling complete
-Downsampling took 0 seconds
+Downsampling took 5 seconds
 Outputting world vectors to /Users/jwoolschlager/dev/minecraft-map/tectonicus/../map/Map0/worldVectors.js
 World vectors done
 Loading world from base dir ../woolbear with dimension Nether
@@ -1129,7 +1224,7 @@ Tile cache directory found and is valid. Using cache at /Users/jwoolschlager/dev
 94%
 98%
 100%
-FindChangedTiles took: 1.875 seconds
+FindChangedTiles took: 2.107 seconds
 RenderBaseTiles
 Base render is at zoom 24 with 64x64 tiles
 RenderBaseTiles
@@ -1138,49 +1233,49 @@ Base tile render complete
 Downsampling to create zoom level 6
 Downsampling level 6
 	Scanning for next zoom tiles...
-	Downsampling 311 tiles into 137 tiles
+	Downsampling 0 tiles into 0 tiles
 100%
 Finalizing downsampling...
 Downsampling complete
 Downsampling to create zoom level 5
 Downsampling level 5
 	Scanning for next zoom tiles...
-	Downsampling 137 tiles into 71 tiles
+	Downsampling 0 tiles into 0 tiles
 100%
 Finalizing downsampling...
 Downsampling complete
 Downsampling to create zoom level 4
 Downsampling level 4
 	Scanning for next zoom tiles...
-	Downsampling 71 tiles into 32 tiles
+	Downsampling 0 tiles into 0 tiles
 100%
 Finalizing downsampling...
 Downsampling complete
 Downsampling to create zoom level 3
 Downsampling level 3
 	Scanning for next zoom tiles...
-	Downsampling 32 tiles into 12 tiles
+	Downsampling 0 tiles into 0 tiles
 100%
 Finalizing downsampling...
 Downsampling complete
 Downsampling to create zoom level 2
 Downsampling level 2
 	Scanning for next zoom tiles...
-	Downsampling 12 tiles into 6 tiles
+	Downsampling 0 tiles into 0 tiles
 100%
 Finalizing downsampling...
 Downsampling complete
 Downsampling to create zoom level 1
 Downsampling level 1
 	Scanning for next zoom tiles...
-	Downsampling 6 tiles into 4 tiles
+	Downsampling 0 tiles into 0 tiles
 100%
 Finalizing downsampling...
 Downsampling complete
 Downsampling to create zoom level 0
 Downsampling level 0
 	Scanning for next zoom tiles...
-	Downsampling 4 tiles into 4 tiles
+	Downsampling 0 tiles into 0 tiles
 100%
 Finalizing downsampling...
 Downsampling complete
@@ -1195,7 +1290,7 @@ Exporting stats...
 Outputting stats to /Users/jwoolschlager/dev/minecraft-map/tectonicus/../map/Scripts/stats.js
 Writing changed file list...
 OutputChangedList
-Render complete - total time 17 minutes 44 seconds
+Render complete - total time 27 minutes 25 seconds
 Cleaning up...
 Writing player skin cache info (4 skins to write)
 100%
