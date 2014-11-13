@@ -5,7 +5,7 @@ var Map0_bedData=[
 	},
 	{
 		playerName: "null",
-		worldPos: new WorldCoord(10267, 64, -2179)
+		worldPos: new WorldCoord(6948, 96, 3)
 	},
 	{
 		playerName: "null",

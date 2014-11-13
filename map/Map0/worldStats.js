@@ -4,7 +4,7 @@
 var Map0_worldStats =
 {
 
-	numChunks: "195341",
-	numPortals: "8",
+	numChunks: "228768",
+	numPortals: "9",
 	numPlayers: "4"
 }
