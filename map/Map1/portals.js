@@ -21,6 +21,9 @@ var Map1_portalData=[
 		worldPos: new WorldCoord(-728.0, 80.0, 208.0)
 	},
 	{
+		worldPos: new WorldCoord(878.0, 96.0, 0.0)
+	},
+	{
 		worldPos: new WorldCoord(1274.0, 62.0, -280.0)
 	}
 ];

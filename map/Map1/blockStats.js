@@ -1,6 +1,6 @@
 var Map1_blockStats=[
 	{
-		count: "231,359,260",
+		count: "251,763,838",
 		name: "Air"
 	},
 	{
@@ -8,19 +8,19 @@ var Map1_blockStats=[
 		name: "Andesite"
 	},
 	{
-		count: "8,315,835",
+		count: "9,062,348",
 		name: "Bedrock"
 	},
 	{
-		count: "3,032",
+		count: "3,306",
 		name: "Brown Mushroom"
 	},
 	{
-		count: "26",
+		count: "32",
 		name: "Chest"
 	},
 	{
-		count: "6,371",
+		count: "6,354",
 		name: "Cobblestone"
 	},
 	{
@@ -28,7 +28,7 @@ var Map1_blockStats=[
 		name: "Cobblestone Double Slab"
 	},
 	{
-		count: "352",
+		count: "364",
 		name: "Cobblestone Slab"
 	},
 	{
@@ -44,7 +44,7 @@ var Map1_blockStats=[
 		name: "Dirt"
 	},
 	{
-		count: "8,404",
+		count: "9,176",
 		name: "Fire"
 	},
 	{
@@ -52,55 +52,55 @@ var Map1_blockStats=[
 		name: "Furnace"
 	},
 	{
-		count: "10,326",
+		count: "12,110",
 		name: "Glowstone"
 	},
 	{
-		count: "12,940",
+		count: "14,515",
 		name: "Gravel"
 	},
 	{
-		count: "3,957,729",
+		count: "4,258,664",
 		name: "Lava"
 	},
 	{
-		count: "9",
+		count: "11",
 		name: "Mob Spawner"
 	},
 	{
-		count: "431,841",
+		count: "464,261",
 		name: "Nether Brick"
 	},
 	{
-		count: "7,995",
+		count: "8,934",
 		name: "Nether Brick Fence"
 	},
 	{
-		count: "508",
+		count: "572",
 		name: "Nether Brick Stairs"
 	},
 	{
-		count: "756,147",
+		count: "830,883",
 		name: "Nether Quartz Ore"
 	},
 	{
-		count: "120",
+		count: "160",
 		name: "Nether Wart"
 	},
 	{
-		count: "109,537,777",
+		count: "119,790,236",
 		name: "Netherrack"
 	},
 	{
-		count: "96",
+		count: "110",
 		name: "Obsidian"
 	},
 	{
-		count: "48",
+		count: "54",
 		name: "Portal"
 	},
 	{
-		count: "2,893",
+		count: "3,238",
 		name: "Red Mushroom"
 	},
 	{
@@ -108,7 +108,7 @@ var Map1_blockStats=[
 		name: "Sand"
 	},
 	{
-		count: "399,544",
+		count: "432,552",
 		name: "Soul Sand"
 	},
 	{
@@ -116,7 +116,7 @@ var Map1_blockStats=[
 		name: "Standing Banner"
 	},
 	{
-		count: "18",
+		count: "16",
 		name: "Stone"
 	},
 	{
@@ -124,7 +124,7 @@ var Map1_blockStats=[
 		name: "Stone Slab"
 	},
 	{
-		count: "318",
+		count: "351",
 		name: "Torch"
 	},
 	{
