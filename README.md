@@ -1,1 +1,1 @@
-java -Xms2048M -Xmx2048M -jar Tectonicus_v2.20.jar config=simpleConfig.xml
+We used to play Minecraft a lot and wanted a large map created.
